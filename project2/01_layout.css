@@ -252,6 +252,9 @@ img#twitter{
 
 
 }
+body{
+	font-size:17pt;
+}
 
 div.text{
 	position: absolute;
