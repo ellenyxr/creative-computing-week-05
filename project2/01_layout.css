@@ -27,7 +27,7 @@ div.box.box-2{
  	padding: 5%;
  	width: 13%;
  	left:30%;
- 	up:30%;
+ 	margin-top:10px;
 }
 
 div.box.box-3{
