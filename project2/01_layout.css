@@ -172,12 +172,13 @@ img#twitter{
 	}
 	body{
 		margin-top: 250px;
+		font-size:9pt;
 	}
 	div.box{
 		margin-top: 300px;
 	}
 	div.box.box-6{
-		margin-top: 50%;
+		margin-top: 40%;
 	}
 	img.box6{
 		margin-top: 60px;
@@ -217,7 +218,7 @@ img#twitter{
 
 	}
  	div.box.box-6{
-		margin-top: 40%; 
+		margin-top: 38%; 
 	}
 	h1.of{
 		margin-top: 100px;
@@ -246,8 +247,9 @@ img#twitter{
 /* Extra large devices (large laptops and desktops, 1400px and up) */
 @media only screen and (min-width: 1400px) {
 	body{
-	margin:10%;
+	margin-top:30px;
 	font-family: Times New Roman;
+
 
 }
 
@@ -339,8 +341,8 @@ h1.of{
 
 h1.name{
 	position: absolute;
-	margin-top: 45%;
-	letter-spacing: 30imagpx;
+	margin-top: 550px;
+	letter-spacing: 27px;
 }
 
 h1{
@@ -348,6 +350,8 @@ h1{
 	font-weight: lighter;
 	letter-spacing: 40px;
 	font-size: 250%;
+	margin-top:40px;
+
 }
 img.box6{
 	position: absolute;
